@@ -9,9 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [Manav2005bhatt](Manav2005bhatt)
 
+- 📝 looking to become a [full stack developer](full stack developer)
+
 - 💬 Ask me about **html and css**
 
 - 📫 How to reach me **manavbhatt2005@gmail.com**
+
+- 📄 Know about my experiences [doing coding from 6 months](doing coding from 6 months)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
