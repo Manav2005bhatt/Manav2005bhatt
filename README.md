@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👯 I’m am projects on [html and css project](project-1 , project-2)
+- 👯 I’m am making project html,css and javascript
 
 - 👨‍💻 All of my projects are available at [Manav2005bhatt](Manav2005bhatt)
 
 - 📝 looking to become a [full stack developer](full stack developer)
 
-- 💬 Ask me about **html and css**
+- 💬 Ask me about **html ,css and javascript"
 
 - 📫 How to reach me **manavbhatt2005@gmail.com**
 
