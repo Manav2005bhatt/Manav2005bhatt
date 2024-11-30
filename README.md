@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UI and UX designing**
 
-- 🌱 I’m currently learning **javascript an figma**
+- 🌱 I’m currently learning **javascript and figma**
 
 - 👯 I’m am projects on **js project**
 
