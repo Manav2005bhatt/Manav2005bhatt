@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manav Bhatt</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **UI and UX designing**
+- 🔭 I’m currently working on frontend 
 
 - 🌱 I’m currently learning **javascript and figma**
 
