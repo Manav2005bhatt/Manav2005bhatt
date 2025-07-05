@@ -11,7 +11,7 @@
 
 - 📝 looking to become a [full stack developer](full stack developer)
 
-- 💬 Ask me about **html and css**
+- 💬 Ask me about **html css javascript **
 
 - 📫 How to reach me **manavbhatt2005@gmail.com**
 
